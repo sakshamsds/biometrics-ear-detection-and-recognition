@@ -1,0 +1,2 @@
+# biometrics-ear-detection-and-recognition
+EXPLORING THE EFFICACY OF EAR IMAGES FOR BIOMETRICS IDENTIFICATION
