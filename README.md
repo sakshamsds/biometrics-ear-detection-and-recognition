@@ -4,9 +4,20 @@
 
 ### Steps for detection
 
-1. Install the required libraries: pip install -r ./requirements.txt
-2. Change directory using the cmd: cd ./detection/testing
-3. Run the detect.py file: python detect.py
+1. Install the required libraries:
+```bash
+pip install -r ./requirements.txt
+```
+
+3. Change directory using the cmd:
+```bash
+cd ./detection/testing
+```
+
+6. Run the detect.py file:
+```bash
+python detect.py
+```
 
 ### Detection Results
 ![Detection results](https://github.com/sakshamsds/biometrics-ear-detection-and-recognition/blob/main/detection/detection_results_2.jpg)
